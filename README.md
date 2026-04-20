@@ -15,3 +15,6 @@ This project includes custom Python scripts to scan for API vulnerabilities and 
 - http://testhtml5.vulnweb.com
 - http://juice-shop.herokuapp.com
 
+---
+
+**Author:** Aishwarya,Amit,Bansi,Milind
