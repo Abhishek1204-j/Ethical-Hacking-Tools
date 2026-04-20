@@ -17,4 +17,4 @@ This project includes custom Python scripts to scan for API vulnerabilities and 
 
 ---
 
-**Author:** Aishwarya,Amit,Bansi,Milind
+
